@@ -1,0 +1,53 @@
+C:\Users\lenovo\Desktop\新建文件夹\frmtool\frmtool\bin\Debug\frmtool.exe.config
+C:\Users\lenovo\Desktop\新建文件夹\frmtool\frmtool\bin\Debug\frmtool.exe
+C:\Users\lenovo\Desktop\新建文件夹\frmtool\frmtool\bin\Debug\frmtool.pdb
+C:\Users\lenovo\Desktop\新建文件夹\frmtool\frmtool\bin\Debug\frmtool.xml
+C:\Users\lenovo\Desktop\新建文件夹\frmtool\frmtool\obj\Debug\frmtool.Form1.resources
+C:\Users\lenovo\Desktop\新建文件夹\frmtool\frmtool\obj\Debug\frmtool.Resources.resources
+C:\Users\lenovo\Desktop\新建文件夹\frmtool\frmtool\obj\Debug\frmtool.vbproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\新建文件夹\frmtool\frmtool\obj\Debug\frmtool.exe
+C:\Users\lenovo\Desktop\新建文件夹\frmtool\frmtool\obj\Debug\frmtool.xml
+C:\Users\lenovo\Desktop\新建文件夹\frmtool\frmtool\obj\Debug\frmtool.pdb
+C:\Users\h8958\Desktop\新建文件夹1\frmtool\frmtool\bin\Debug\frmtool.exe.config
+C:\Users\h8958\Desktop\新建文件夹1\frmtool\frmtool\bin\Debug\frmtool.exe
+C:\Users\h8958\Desktop\新建文件夹1\frmtool\frmtool\bin\Debug\frmtool.pdb
+C:\Users\h8958\Desktop\新建文件夹1\frmtool\frmtool\bin\Debug\frmtool.xml
+C:\Users\h8958\Desktop\新建文件夹1\frmtool\frmtool\obj\Debug\frmtool.vbprojResolveAssemblyReference.cache
+C:\Users\h8958\Desktop\新建文件夹1\frmtool\frmtool\obj\Debug\frmtool.Form1.resources
+C:\Users\h8958\Desktop\新建文件夹1\frmtool\frmtool\obj\Debug\frmtool.Resources.resources
+C:\Users\h8958\Desktop\新建文件夹1\frmtool\frmtool\obj\Debug\frmtool.vbproj.GenerateResource.Cache
+C:\Users\h8958\Desktop\新建文件夹1\frmtool\frmtool\obj\Debug\frmtool.vbproj.CoreCompileInputs.cache
+C:\Users\h8958\Desktop\新建文件夹1\frmtool\frmtool\obj\Debug\frmtool.exe
+C:\Users\h8958\Desktop\新建文件夹1\frmtool\frmtool\obj\Debug\frmtool.xml
+C:\Users\h8958\Desktop\新建文件夹1\frmtool\frmtool\obj\Debug\frmtool.pdb
+C:\Users\h8958\Desktop\。net注册\frmtool\frmtool\bin\Debug\frmtool.exe.config
+C:\Users\h8958\Desktop\。net注册\frmtool\frmtool\bin\Debug\frmtool.exe
+C:\Users\h8958\Desktop\。net注册\frmtool\frmtool\bin\Debug\frmtool.pdb
+C:\Users\h8958\Desktop\。net注册\frmtool\frmtool\bin\Debug\frmtool.xml
+C:\Users\h8958\Desktop\。net注册\frmtool\frmtool\obj\Debug\frmtool.vbprojResolveAssemblyReference.cache
+C:\Users\h8958\Desktop\。net注册\frmtool\frmtool\obj\Debug\frmtool.Form1.resources
+C:\Users\h8958\Desktop\。net注册\frmtool\frmtool\obj\Debug\frmtool.Resources.resources
+C:\Users\h8958\Desktop\。net注册\frmtool\frmtool\obj\Debug\frmtool.vbproj.GenerateResource.Cache
+C:\Users\h8958\Desktop\。net注册\frmtool\frmtool\obj\Debug\frmtool.vbproj.CoreCompileInputs.cache
+C:\Users\h8958\Desktop\。net注册\frmtool\frmtool\obj\Debug\frmtool.exe
+C:\Users\h8958\Desktop\。net注册\frmtool\frmtool\obj\Debug\frmtool.xml
+C:\Users\h8958\Desktop\。net注册\frmtool\frmtool\obj\Debug\frmtool.pdb
+C:\Users\lenovo\Desktop\。net注册 - 副本\frmtool\frmtool\bin\Debug\frmtool.exe.config
+C:\Users\lenovo\Desktop\。net注册 - 副本\frmtool\frmtool\obj\Debug\frmtool.exe
+C:\Users\lenovo\Desktop\。net注册 - 副本\frmtool\frmtool\obj\Debug\frmtool.xml
+C:\Users\lenovo\Desktop\。net注册 - 副本\frmtool\frmtool\obj\Debug\frmtool.pdb
+G:\man\frmtool\frmtool\bin\Debug\frmtool.exe.config
+G:\man\frmtool\frmtool\obj\Debug\frmtool.exe
+G:\man\frmtool\frmtool\obj\Debug\frmtool.xml
+G:\man\frmtool\frmtool\obj\Debug\frmtool.pdb
+C:\Users\liang\Desktop\man\frmtool\frmtool\bin\Debug\frmtool.exe.config
+C:\Users\liang\Desktop\man\frmtool\frmtool\bin\Debug\frmtool.exe
+C:\Users\liang\Desktop\man\frmtool\frmtool\bin\Debug\frmtool.pdb
+C:\Users\liang\Desktop\man\frmtool\frmtool\bin\Debug\frmtool.xml
+C:\Users\liang\Desktop\man\frmtool\frmtool\obj\Debug\frmtool.vbprojResolveAssemblyReference.cache
+C:\Users\liang\Desktop\man\frmtool\frmtool\obj\Debug\frmtool.Form1.resources
+C:\Users\liang\Desktop\man\frmtool\frmtool\obj\Debug\frmtool.Resources.resources
+C:\Users\liang\Desktop\man\frmtool\frmtool\obj\Debug\frmtool.vbproj.GenerateResource.Cache
+C:\Users\liang\Desktop\man\frmtool\frmtool\obj\Debug\frmtool.exe
+C:\Users\liang\Desktop\man\frmtool\frmtool\obj\Debug\frmtool.xml
+C:\Users\liang\Desktop\man\frmtool\frmtool\obj\Debug\frmtool.pdb

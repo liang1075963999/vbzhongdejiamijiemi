@@ -1,0 +1,69 @@
+C:\Users\lenovo\Desktop\新建文件夹\frmsoft\frmsoft\bin\Debug\frmsoft.exe.config
+C:\Users\lenovo\Desktop\新建文件夹\frmsoft\frmsoft\obj\Debug\frmsoft.frmlogin.resources
+C:\Users\lenovo\Desktop\新建文件夹\frmsoft\frmsoft\obj\Debug\frmsoft.Resources.resources
+C:\Users\lenovo\Desktop\新建文件夹\frmsoft\frmsoft\obj\Debug\frmsoft.vbproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\新建文件夹\frmsoft\frmsoft\bin\Debug\frmsoft.exe
+C:\Users\lenovo\Desktop\新建文件夹\frmsoft\frmsoft\bin\Debug\frmsoft.pdb
+C:\Users\lenovo\Desktop\新建文件夹\frmsoft\frmsoft\bin\Debug\frmsoft.xml
+C:\Users\lenovo\Desktop\新建文件夹\frmsoft\frmsoft\obj\Debug\frmsoft.exe
+C:\Users\lenovo\Desktop\新建文件夹\frmsoft\frmsoft\obj\Debug\frmsoft.xml
+C:\Users\lenovo\Desktop\新建文件夹\frmsoft\frmsoft\obj\Debug\frmsoft.pdb
+C:\Users\lenovo\Desktop\新建文件夹\frmsoft\frmsoft\obj\Debug\frmsoft.frmreg1.resources
+C:\Users\h8958\Desktop\新建文件夹1\frmsoft\frmsoft\bin\Debug\frmsoft.exe.config
+C:\Users\h8958\Desktop\新建文件夹1\frmsoft\frmsoft\bin\Debug\frmsoft.exe
+C:\Users\h8958\Desktop\新建文件夹1\frmsoft\frmsoft\bin\Debug\frmsoft.pdb
+C:\Users\h8958\Desktop\新建文件夹1\frmsoft\frmsoft\bin\Debug\frmsoft.xml
+C:\Users\h8958\Desktop\新建文件夹1\frmsoft\frmsoft\obj\Debug\frmsoft.vbprojResolveAssemblyReference.cache
+C:\Users\h8958\Desktop\新建文件夹1\frmsoft\frmsoft\obj\Debug\frmsoft.frmlogin.resources
+C:\Users\h8958\Desktop\新建文件夹1\frmsoft\frmsoft\obj\Debug\frmsoft.frmreg1.resources
+C:\Users\h8958\Desktop\新建文件夹1\frmsoft\frmsoft\obj\Debug\frmsoft.Resources.resources
+C:\Users\h8958\Desktop\新建文件夹1\frmsoft\frmsoft\obj\Debug\frmsoft.vbproj.GenerateResource.Cache
+C:\Users\h8958\Desktop\新建文件夹1\frmsoft\frmsoft\obj\Debug\frmsoft.vbproj.CoreCompileInputs.cache
+C:\Users\h8958\Desktop\新建文件夹1\frmsoft\frmsoft\obj\Debug\frmsoft.exe
+C:\Users\h8958\Desktop\新建文件夹1\frmsoft\frmsoft\obj\Debug\frmsoft.xml
+C:\Users\h8958\Desktop\新建文件夹1\frmsoft\frmsoft\obj\Debug\frmsoft.pdb
+C:\Users\h8958\Desktop\。net注册\frmsoft\frmsoft\bin\Debug\frmsoft.exe.config
+C:\Users\h8958\Desktop\。net注册\frmsoft\frmsoft\bin\Debug\frmsoft.exe
+C:\Users\h8958\Desktop\。net注册\frmsoft\frmsoft\bin\Debug\frmsoft.pdb
+C:\Users\h8958\Desktop\。net注册\frmsoft\frmsoft\bin\Debug\frmsoft.xml
+C:\Users\h8958\Desktop\。net注册\frmsoft\frmsoft\obj\Debug\frmsoft.vbprojResolveAssemblyReference.cache
+C:\Users\h8958\Desktop\。net注册\frmsoft\frmsoft\obj\Debug\frmsoft.frmlogin.resources
+C:\Users\h8958\Desktop\。net注册\frmsoft\frmsoft\obj\Debug\frmsoft.frmreg1.resources
+C:\Users\h8958\Desktop\。net注册\frmsoft\frmsoft\obj\Debug\frmsoft.Resources.resources
+C:\Users\h8958\Desktop\。net注册\frmsoft\frmsoft\obj\Debug\frmsoft.vbproj.GenerateResource.Cache
+C:\Users\h8958\Desktop\。net注册\frmsoft\frmsoft\obj\Debug\frmsoft.vbproj.CoreCompileInputs.cache
+C:\Users\h8958\Desktop\。net注册\frmsoft\frmsoft\obj\Debug\frmsoft.exe
+C:\Users\h8958\Desktop\。net注册\frmsoft\frmsoft\obj\Debug\frmsoft.xml
+C:\Users\h8958\Desktop\。net注册\frmsoft\frmsoft\obj\Debug\frmsoft.pdb
+C:\Users\lenovo\Desktop\。net注册 - 副本\frmsoft\frmsoft\bin\Debug\frmsoft.exe.config
+C:\Users\lenovo\Desktop\。net注册 - 副本\frmsoft\frmsoft\obj\Debug\frmsoft.exe
+C:\Users\lenovo\Desktop\。net注册 - 副本\frmsoft\frmsoft\obj\Debug\frmsoft.xml
+C:\Users\lenovo\Desktop\。net注册 - 副本\frmsoft\frmsoft\obj\Debug\frmsoft.pdb
+C:\Users\lenovo\Desktop\。net注册 - 副本\frmsoft\frmsoft\bin\Debug\frmsoft.exe
+C:\Users\lenovo\Desktop\。net注册 - 副本\frmsoft\frmsoft\bin\Debug\frmsoft.pdb
+C:\Users\lenovo\Desktop\。net注册 - 副本\frmsoft\frmsoft\bin\Debug\frmsoft.xml
+C:\Users\lenovo\Desktop\。net注册 - 副本\frmsoft\frmsoft\obj\Debug\frmsoft.vbprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\。net注册 - 副本\frmsoft\frmsoft\obj\Debug\frmsoft.frmlogin.resources
+C:\Users\lenovo\Desktop\。net注册 - 副本\frmsoft\frmsoft\obj\Debug\frmsoft.frmreg1.resources
+C:\Users\lenovo\Desktop\。net注册 - 副本\frmsoft\frmsoft\obj\Debug\frmsoft.Resources.resources
+C:\Users\lenovo\Desktop\。net注册 - 副本\frmsoft\frmsoft\obj\Debug\frmsoft.vbproj.GenerateResource.Cache
+G:\man\frmsoft\frmsoft\bin\Debug\frmsoft.exe.config
+G:\man\frmsoft\frmsoft\obj\Debug\frmsoft.exe
+G:\man\frmsoft\frmsoft\obj\Debug\frmsoft.xml
+G:\man\frmsoft\frmsoft\obj\Debug\frmsoft.pdb
+C:\Users\liang\Desktop\man\frmsoft\frmsoft\bin\Debug\frmsoft.exe.config
+C:\Users\liang\Desktop\man\frmsoft\frmsoft\obj\Debug\frmsoft.exe
+C:\Users\liang\Desktop\man\frmsoft\frmsoft\obj\Debug\frmsoft.xml
+C:\Users\liang\Desktop\man\frmsoft\frmsoft\obj\Debug\frmsoft.pdb
+C:\Users\liang\Desktop\man\frmsoft\frmsoft\bin\Debug\frmsoft.exe
+C:\Users\liang\Desktop\man\frmsoft\frmsoft\bin\Debug\frmsoft.pdb
+C:\Users\liang\Desktop\man\frmsoft\frmsoft\bin\Debug\frmsoft.xml
+C:\Users\liang\Desktop\man\frmsoft\frmsoft\obj\Debug\frmsoft.vbprojResolveAssemblyReference.cache
+C:\Users\liang\Desktop\man\frmsoft\frmsoft\obj\Debug\frmsoft.frmlogin.resources
+C:\Users\liang\Desktop\man\frmsoft\frmsoft\obj\Debug\frmsoft.frmreg1.resources
+C:\Users\liang\Desktop\man\frmsoft\frmsoft\obj\Debug\frmsoft.Resources.resources
+C:\Users\liang\Desktop\man\frmsoft\frmsoft\obj\Debug\frmsoft.vbproj.GenerateResource.Cache
+F:\加密解密\2015100422\2015100422--客户端\frmsoft\bin\Debug\frmsoft.exe.config
+F:\加密解密\2015100422\2015100422--客户端\frmsoft\obj\Debug\frmsoft.exe
+F:\加密解密\2015100422\2015100422--客户端\frmsoft\obj\Debug\frmsoft.xml
+F:\加密解密\2015100422\2015100422--客户端\frmsoft\obj\Debug\frmsoft.pdb

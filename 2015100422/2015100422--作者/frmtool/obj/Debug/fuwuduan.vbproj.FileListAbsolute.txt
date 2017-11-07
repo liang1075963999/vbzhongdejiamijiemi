@@ -1,0 +1,15 @@
+C:\Users\liang\Desktop\man\frmtool\frmtool\bin\Debug\fuwuduan.exe.config
+C:\Users\liang\Desktop\man\frmtool\frmtool\bin\Debug\fuwuduan.exe
+C:\Users\liang\Desktop\man\frmtool\frmtool\bin\Debug\fuwuduan.pdb
+C:\Users\liang\Desktop\man\frmtool\frmtool\bin\Debug\fuwuduan.xml
+C:\Users\liang\Desktop\man\frmtool\frmtool\obj\Debug\fuwuduan.vbprojResolveAssemblyReference.cache
+C:\Users\liang\Desktop\man\frmtool\frmtool\obj\Debug\fuwuduan.Form1.resources
+C:\Users\liang\Desktop\man\frmtool\frmtool\obj\Debug\fuwuduan.Resources.resources
+C:\Users\liang\Desktop\man\frmtool\frmtool\obj\Debug\fuwuduan.vbproj.GenerateResource.Cache
+C:\Users\liang\Desktop\man\frmtool\frmtool\obj\Debug\fuwuduan.exe
+C:\Users\liang\Desktop\man\frmtool\frmtool\obj\Debug\fuwuduan.xml
+C:\Users\liang\Desktop\man\frmtool\frmtool\obj\Debug\fuwuduan.pdb
+F:\加密解密\2015100422\2015100422--作者\frmtool\bin\Debug\fuwuduan.exe.config
+F:\加密解密\2015100422\2015100422--作者\frmtool\obj\Debug\fuwuduan.exe
+F:\加密解密\2015100422\2015100422--作者\frmtool\obj\Debug\fuwuduan.xml
+F:\加密解密\2015100422\2015100422--作者\frmtool\obj\Debug\fuwuduan.pdb
